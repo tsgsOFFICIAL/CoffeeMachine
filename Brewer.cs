@@ -2,7 +2,7 @@
 
 namespace CoffeeMachine
 {
-    public abstract class Machine
+    public class Brewer
     {
 
     }
