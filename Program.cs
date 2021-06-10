@@ -6,7 +6,6 @@ namespace CoffeeMachine
     {
         static void Main()
         {
-
         }
     }
 }
